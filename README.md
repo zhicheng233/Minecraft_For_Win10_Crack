@@ -23,22 +23,13 @@
 3.更改原Windows.ApplicationModel.Store.dll权限
 
 
-4.结束Cortana.exe进程
+4.删除原Windows.ApplicationModel.Store.dll
 
 
-5.结束WinStore.App.exe下的RuntimeBroker.exe子进程
+5.复制Windows.ApplicationModel.Store.dll
 
 
-6.结束WinStore.App.exe进程
-
-
-7.删除原Windows.ApplicationModel.Store.dll
-
-
-8.复制Windows.ApplicationModel.Store.dll
-
-
-9.删除释放的Windows.ApplicationModel.Store.dll文件
+6.删除释放的Windows.ApplicationModel.Store.dll文件
 
 
 
